@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({ 
-   base: "/learning_react",      
+   base: "/learningReact",      
     plugins: [react()],
     server: {
       proxy: {
